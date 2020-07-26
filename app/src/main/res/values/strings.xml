@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AttendanceApp</string>
+    <string name="CollegeName">MNNIT Allahabad</string>
+    <string name="signin">Sign in</string>
+    <string name="mnnit">logo</string>
+    <string name="rememberme">Remember me</string>
+    <string name="regno">Reg no.</string>
+    <string name="password"></string>
+    <string name="forgotPass">Forgot pass</string>
+</resources>
